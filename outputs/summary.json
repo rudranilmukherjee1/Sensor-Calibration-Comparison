@@ -1,0 +1,18 @@
+{
+  "calibration_equation": "corrected = 0.92216 * raw + (-3.91579)",
+  "slope": 0.9221649364784519,
+  "intercept": -3.9157942271301835,
+  "training_samples": 33,
+  "held_out_samples": 11,
+  "held_out_raw_error": {
+    "mae": 8.491636363636363,
+    "rmse": 8.92566605612458,
+    "mean_error": 8.491636363636363
+  },
+  "held_out_corrected_error": {
+    "mae": 1.106160033365095,
+    "rmse": 1.4360476313645045,
+    "mean_error": 0.23541935063110966
+  },
+  "mae_improvement_percent": 86.97353506443126
+}

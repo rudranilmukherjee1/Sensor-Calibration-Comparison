@@ -1,0 +1,7 @@
+SENSOR CALIBRATION ANALYSIS
+corrected = 0.92216 * raw + (-3.91579)
+Held-out raw MAE:       8.492
+Held-out corrected MAE: 1.106
+MAE improvement:        87.0%
+Outputs saved in: /mnt/data/sensor_calibration_project/outputs
+Plots saved in:   /mnt/data/sensor_calibration_project/plots
